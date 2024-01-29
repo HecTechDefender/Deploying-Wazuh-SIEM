@@ -1,4 +1,4 @@
- <h1>Wazuh + SOAR Implementation</h1>
+ <h1>Deploying Wazuh (SIEM) on Linode</h1>
 
  ### 
 
