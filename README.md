@@ -3,13 +3,14 @@
  ### 
 
 <h2>Description</h2>
- 
+This project covers the deployment of Wazuh, enabling us to monitor file and Windows registry changes, identify unauthorized processes, and implement comprehensive security measures. This open-source Security Information and Event Management (SIEM) system serves as a powerful tool designed to empower users in safeguarding their devices and networks with the expertise of cybersecurity professionals. 
 <br />
 
 
-<h2>Utilities Used</h2>
+<h2>Tools Used</h2>
 
 - <b>Wazuh</b>
+- <b>Linode</b>
 
 <h2>Environments Used </h2>
 
@@ -17,7 +18,7 @@
 
 <h2>Program walk-through:</h2>
 
-To begin, let's download VMware for Windows. 
+To begin by signing up for  
 
 [Download: VMware](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) <b><i></b></i>
              
