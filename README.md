@@ -20,11 +20,10 @@ This project covers the deployment of Wazuh, enabling us to monitor file and Win
 
 Let's begin by signing up for Linode and Wazuh: 
 
-[Sign up: Linode]() <b><i></b></i>
+[Sign up for Linode: FREE $100 credit for 60 days](https://www.linode.com/lp/youtube-viewers/?ifso=networkchuck&utm_source=influencer&utm_medium=video&utm_campaign=networkchuck) <b><i></b></i>
              
-[Download: Windows 10 ISO](https://www.microsoft.com/en-us/software-download/windows10) <b><i></b></i>  
-<br /> 
-[Download: Nessus Essentials](https://www.tenable.com/products/nessus/nessus-essentials) <b><i></b></i>                                                                                                                        <br />
+[Sign: Wazuh]() <b><i></b></i>  
+
 <br /> 
  While VMware is downloading, head over to Windows and download the ISO as well. 
                                                                                       <br/>
