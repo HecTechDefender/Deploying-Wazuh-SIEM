@@ -18,9 +18,9 @@ This project covers the deployment of Wazuh, enabling us to monitor file and Win
 
 <h2>Program walk-through:</h2>
 
-To begin by signing up for  
+Let's begin by signing up for Linode and Wazuh: 
 
-[Download: VMware](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) <b><i></b></i>
+[Sign up: Linode]() <b><i></b></i>
              
 [Download: Windows 10 ISO](https://www.microsoft.com/en-us/software-download/windows10) <b><i></b></i>  
 <br /> 
