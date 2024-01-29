@@ -1,15 +1,15 @@
- <h1>Setting Up </h1>
+ <h1>Wazuh + SOAR Implementation</h1>
 
  ### 
 
 <h2>Description</h2>
-In this project we will address vulnerability scanning and remediation, essential steps in the Vulnerability Management Lifecycle. Nessus Essentials will be utilized to scan local VMs hosted on VMWare Workstation. The process involves running credentialed scans to identify vulnerabilities, addressing some of them through remediation, and conducting a follow-up rescan to verify the effectiveness of the remediation. 
+ 
 <br />
 
 
 <h2>Utilities Used</h2>
 
-- <b>Nessus Essentials</b>
+- <b>Wazuh</b>
 
 <h2>Environments Used </h2>
 
