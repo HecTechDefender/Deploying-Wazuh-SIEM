@@ -1,4 +1,4 @@
- <h1>Deploying Wazuh (SIEM) on Linode</h1>
+ <h1>Deploying Wazuh SIEM</h1>
 
  ### 
 
@@ -10,7 +10,6 @@ This project covers the deployment of Wazuh, enabling us to monitor file and Win
 <h2>Tools Used</h2>
 
 - <b>Wazuh</b>
-- <b>Linode</b>
 
 <h2>Environments Used </h2>
 
@@ -18,15 +17,11 @@ This project covers the deployment of Wazuh, enabling us to monitor file and Win
 
 <h2>Program walk-through:</h2>
 
-Let's begin by signing up for Linode and Wazuh: 
-
-[Sign up for Linode: FREE $100 credit for 60 days](https://www.linode.com/lp/youtube-viewers/?ifso=networkchuck&utm_source=influencer&utm_medium=video&utm_campaign=networkchuck) <b><i></b></i>
-             
-[Sign: Wazuh]() <b><i></b></i>  
+Let's begin by creating a new VM in VMware: 
 
 <br /> 
- While VMware is downloading, head over to Windows and download the ISO as well. 
-                                                                                      <br/>
+                                                             
+   <br/>
                                                                                       <br />
 <img src="https://i.imgur.com/OJn65Y9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
