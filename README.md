@@ -1,4 +1,4 @@
- <h1>Deploying Wazuh SIEM</h1>
+ <h1>Deploying a Security Solution with Wazuh</h1>
 
  ### 
 
