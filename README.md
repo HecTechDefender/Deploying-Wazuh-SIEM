@@ -22,7 +22,7 @@ This project covers the deployment of Wazuh, enabling us to monitor file and Win
 <br />
  Let's begin by creating a new Ubuntu 22.04.3 LTS VM in VMware.   <br/>
                                               <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GJQEXwl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
@@ -30,7 +30,7 @@ This project covers the deployment of Wazuh, enabling us to monitor file and Win
 <br />
                                       <br/>
                                       <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/owoEwae.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
@@ -39,7 +39,7 @@ This project covers the deployment of Wazuh, enabling us to monitor file and Win
 <br />
                                       <br/>
                                       <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HtM6M5a.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
