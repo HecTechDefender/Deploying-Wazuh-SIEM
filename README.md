@@ -28,6 +28,21 @@ This project covers the deployment of Wazuh, enabling us to monitor file and Win
 
 <br />
 <br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
 
 <br />
 <br />
@@ -49,9 +64,6 @@ This project covers the deployment of Wazuh, enabling us to monitor file and Win
 
 <br />
 <br />
-
-<br />
-<br />
                                       <br/>
                                       <br />
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -70,9 +82,6 @@ This project covers the deployment of Wazuh, enabling us to monitor file and Win
 
 <br />
 <br />
-
-<br />
-<br />
                                       <br/>
                                       <br />
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -87,31 +96,6 @@ This project covers the deployment of Wazuh, enabling us to monitor file and Win
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
-
-
-<br />
-<br />
-
-<br />
-<br />
-                                      <br/>
-                                      <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br/>
-
-  
-<br />
-<br />
-                                      <br/>
-                                      <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br/>
-
-
-<br />
-<br />
 
 
 <br />
@@ -134,6 +118,327 @@ This project covers the deployment of Wazuh, enabling us to monitor file and Win
 
 <br />
 <br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
 
 <br />
 <br />
@@ -176,6 +481,21 @@ This project covers the deployment of Wazuh, enabling us to monitor file and Win
 
 <br />
 <br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
 
 <br />
 <br />
@@ -197,9 +517,6 @@ This project covers the deployment of Wazuh, enabling us to monitor file and Win
 
 <br />
 <br />
-
-<br />
-<br />
                                       <br/>
                                       <br />
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -214,10 +531,6 @@ This project covers the deployment of Wazuh, enabling us to monitor file and Win
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
-
-
-<br />
-<br />
 
 
 <br />
@@ -240,6 +553,21 @@ This project covers the deployment of Wazuh, enabling us to monitor file and Win
 
 <br />
 <br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
 
 <br />
 <br />
@@ -261,6 +589,21 @@ This project covers the deployment of Wazuh, enabling us to monitor file and Win
 
 <br />
 <br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
 
 <br />
 <br />
@@ -282,6 +625,21 @@ This project covers the deployment of Wazuh, enabling us to monitor file and Win
 
 <br />
 <br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
 
 <br />
 <br />
@@ -303,6 +661,21 @@ This project covers the deployment of Wazuh, enabling us to monitor file and Win
 
 <br />
 <br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
 
 <br />
 <br />
@@ -324,31 +697,6 @@ This project covers the deployment of Wazuh, enabling us to monitor file and Win
 
 <br />
 <br />
-
-
-<br />
-<br />
-                                    <br/>
-                                      <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br/>
-
-  
-<br />
-<br />
-                                      <br/>
-                                      <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br/>
-
-
-<br />
-<br />
-
-<br />
-<br />
                                       <br/>
                                       <br />
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -364,9 +712,6 @@ This project covers the deployment of Wazuh, enabling us to monitor file and Win
 <br />
 <br/>
 
-
-<br />
-<br />
 
 <br />
 <br />
@@ -388,6 +733,21 @@ This project covers the deployment of Wazuh, enabling us to monitor file and Win
 
 <br />
 <br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
 
 <br />
 <br />
@@ -409,6 +769,21 @@ This project covers the deployment of Wazuh, enabling us to monitor file and Win
 
 <br />
 <br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
 
 <br />
 <br />
@@ -430,31 +805,6 @@ This project covers the deployment of Wazuh, enabling us to monitor file and Win
 
 <br />
 <br />
-
-
-<br />
-<br />
-                                    <br/>
-                                      <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br/>
-
-  
-<br />
-<br />
-                                      <br/>
-                                      <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br/>
-
-
-<br />
-<br />
-
-<br />
-<br />
                                       <br/>
                                       <br />
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -470,9 +820,6 @@ This project covers the deployment of Wazuh, enabling us to monitor file and Win
 <br />
 <br/>
 
-
-<br />
-<br />
 
 <br />
 <br />
@@ -494,6 +841,21 @@ This project covers the deployment of Wazuh, enabling us to monitor file and Win
 
 <br />
 <br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
 
 <br />
 <br />
@@ -515,9 +877,6 @@ This project covers the deployment of Wazuh, enabling us to monitor file and Win
 
 <br />
 <br />
-
-<br />
-<br />
                                       <br/>
                                       <br />
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -536,5 +895,4 @@ This project covers the deployment of Wazuh, enabling us to monitor file and Win
 
 <br />
 <br />
-
 
