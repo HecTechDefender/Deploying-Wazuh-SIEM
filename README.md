@@ -17,17 +17,524 @@ This project covers the deployment of Wazuh, enabling us to monitor file and Win
 
 <h2>Program walk-through:</h2>
 
-Let's begin by creating a new VM in VMware: 
 
-<br /> 
-                                                             
-   <br/>
-                                                                                      <br />
-<img src="https://i.imgur.com/OJn65Y9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 <br />
-              <br/>
-
-   <br />
-<img src="https://i.imgur.com/9wAYXgk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Let's begin by creating a new VM in VMware for Ubuntu 22.04.3 LTS   <br/>
+                                              <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
+
+<br />
+<br />
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+
+
+<br />
+<br />
+                                    <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+
+
+<br />
+<br />
+                                    <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+
+
+<br />
+<br />
+                                    <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+
+
+<br />
+<br />
+                                    <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+
+
