@@ -46,9 +46,9 @@ This project covers the deployment of Wazuh, enabling us to monitor file and Win
 
 <br />
 <br />
-                                      <br/>
+Once created, open terminal and copy and paste this script (curl -sO https://packages.wazuh.com/4.7/wazuh-install.sh && sudo bash ./wazuh-install.sh -a) to download and install Wazuh installation assistant.                                                                                <br/>
                                       <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0AIRWHZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
@@ -57,7 +57,7 @@ This project covers the deployment of Wazuh, enabling us to monitor file and Win
 <br />
                                       <br/>
                                       <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/SmR71Ey.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
