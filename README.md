@@ -82,25 +82,25 @@ Once that's done, it will display the Username and Password for the web interfac
 
 <br />
 <br />
-                                      <br/>
+Now, type the command: (ip a s) to get the IP Address of your VM and we'll use that to access the web interface of Wazuh. Make sure to enter the credentials we just received after installation like below.                                          <br/>
                                       <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AtiLp1h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
   
 <br />
 <br />
-                                      <br/>
-                                      <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ After logging in, it will come to a page like this.                                      <br/>
+                                                                                    <br />
+<img src="https://i.imgur.com/FZsRFyT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
 
 <br />
 <br />
-                                    <br/>
+                                     <br/>
                                       <br />
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
