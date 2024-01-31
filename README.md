@@ -66,16 +66,16 @@ Once created, open terminal and copy and paste this script (curl -sO https://pac
 <br />
                                       <br/>
                                       <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/iSSnsMJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
   
 <br />
 <br />
-                                      <br/>
+Once that's done, it will display the Username and Password for the web interface. Make sure to save the password in a secure place, as we will need it shortly.                 <br/>
                                       <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/20L0HfI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
