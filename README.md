@@ -100,9 +100,9 @@ Now, type the command: (ip a s) to get the IP Address of your VM and we'll use t
 
 <br />
 <br />
-                                     <br/>
+Now we can add agents to monitor.     <br/>
                                       <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DeG4x3s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
