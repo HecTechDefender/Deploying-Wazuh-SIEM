@@ -109,63 +109,63 @@ Now we can add agents to monitor.     <br/>
   
 <br />
 <br />
- All I did was create a new virtual machine and added that as an agent.                                     <br/>
+ All I did was create a new Linux virtual machine and added that as an agent.                                    <br/>
                                       <br />
-<img src="https://i.imgur.com/5uZnxYR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8BnC47u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
 
 <br />
 <br />
-                                      <br/>
+ Make sure to add the server address which is our Wazuh manager address. It's optional, but I added an agent name. Then copy the command under the optional name portion and now well head over to the agent VM and install the Wazuh client in terminal.                                  <br/>
                                       <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br/>
-
-  
-<br />
-<br />
-                                      <br/>
-                                      <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br/>
-
-
-<br />
-<br />
-                                      <br/>
-                                      <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wvl6sRo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
   
 <br />
 <br />
-                                      <br/>
+Ok, now open terminal and paste that code we copied from Wazuh client documentation and press enter, enter sudo password and it will download.                                        <br/>
                                       <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7dw4nvi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
 
 <br />
 <br />
-                                      <br/>
+Now that it is installed, let's start the agent. So let's head back over to the Wazuh documentation one more time to get the code we need to start our agent. Once entered we need to check if the client is running, so we can run the command (sudo systemctl status wazuh-agent)             <br/>
                                       <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dcWtLf9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
   
 <br />
 <br />
-                                      <br/>
+And as you can see, it is up and running!   <br/>
                                       <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/iXMkywE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+Heading back over to the Wazuh manager dashboard, we can see that the agent has been added!                                      <br/>
+                                      <br />
+<img src="https://i.imgur.com/S550CHf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+Click agents and it will show you more details about the device.                                       <br/>
+                                      <br />
+<img src="https://i.imgur.com/xS5aKSm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
