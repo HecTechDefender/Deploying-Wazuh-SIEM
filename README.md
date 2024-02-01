@@ -109,9 +109,9 @@ Now we can add agents to monitor.     <br/>
   
 <br />
 <br />
-                                      <br/>
+ All I did was create a new virtual machine and added that as an agent.                                     <br/>
                                       <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5uZnxYR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
