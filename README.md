@@ -163,7 +163,7 @@ Heading back over to the Wazuh manager dashboard, we can see that the agent has 
   
 <br />
 <br />
-Click agents and it will show you more details about the device.  <br/>
+Click agents and it will show you more details about the device.    <br/>
                                       <br />
 <img src="https://i.imgur.com/xS5aKSm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -172,9 +172,9 @@ Click agents and it will show you more details about the device.  <br/>
 
 <br />
 <br />
-                                      <br/>
+In this example, I purposely locked the screen on the VM agent and entered the wrong password to see if the agent would send this info to our Wazuh manager. And it did!                                      <br/>
                                       <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pgab1kR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
