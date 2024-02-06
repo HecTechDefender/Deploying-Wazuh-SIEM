@@ -190,25 +190,25 @@ Ok, now let's take a look at the configurations for Wazuh inside the static dire
 
 <br />
 <br />
-                                      <br/>
+Now, type cd "etc", "ls" then type: "subl ossec.conf" that file will open and we will land on the configuration page for Wazuh.                                  <br/>
                                       <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Aj3Obox.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
   
 <br />
 <br />
-                                      <br/>
+Once open, scroll down to where you can see vulnerability detector and change it from no to yes then hit ctrl + S to save it                                     <br/>
                                       <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NSS5Cje.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
 
 <br />
 <br />
-                                      <br/>
+ Now, let's go back to terminal and put this command "systemctl restart wazuh-manager" so those changes can take effect.                                    <br/>
                                       <br />
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
