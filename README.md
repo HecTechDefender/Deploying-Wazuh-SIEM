@@ -208,9 +208,9 @@ Once open, scroll down to where you can see vulnerability detector and change it
 
 <br />
 <br />
- Now, let's go back to terminal and put this command "systemctl restart wazuh-manager" so those changes can take effect.                                    <br/>
+ Now, let's go back to terminal and put this command "systemctl restart wazuh-manager" so those changes can take effect. After restart, check to make sure that Wazuh-Manager is running like below.                                     <br/>
                                       <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8tKC2DT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
