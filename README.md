@@ -181,7 +181,7 @@ In this example, I purposely locked the screen on the VM agent and entered the w
   
 <br />
 <br />
-Ok, now let's take a look at the configurations for Wazuh inside the static directory which allows us to see what inside and tweak some stuff to our liking. So lets go to our Wazuh Server VM and open Terminal. And type cd /var/ossec. It should say: Permission Denied because we are not root. So now type sudo bash and type in the password and try the command again and then type command ''Ls" to see inside that directory.   <br/>
+Ok, now let's take a look at the configurations for Wazuh inside the static directory which allows us to see what inside and tweak some stuff to our liking. So lets go to our Wazuh Server VM and open Terminal. And type cd /var/ossec. It should say: Permission Denied because we are not root. So now, type sudo bash and type in the password and try the command again and then type command "Ls" to see inside that directory.   <br/>
                                       <br />
 <img src="https://i.imgur.com/flSiOvk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
